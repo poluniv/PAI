@@ -1,10 +1,8 @@
 let a = 10
 let b = 20
 let c = 5
-a = a + 3 // Fixat en aquesta instrucció.
-// Quin valor tenia la variable a abans
-// d’executar-se la instrucció?
-// I desprès?
+a = a + 3
+
 console.log(a);
 b = b + 4 - a
 console.log(b);
