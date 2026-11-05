@@ -5,6 +5,6 @@ while (i <= valor) {
 resultat = resultat * i;
 i++;
 }
-console.log(resultat) //resultat val... 120
+console.log(resultat)
 
 
